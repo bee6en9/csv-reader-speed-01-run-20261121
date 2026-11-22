@@ -1,8 +1,8 @@
 # csv-reader, faster
 
-[![csv-reader-speed-01-run-20261121](https://make.fun/bounty/csv-reader-speed-01-run-20261121/badge.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121)
-[![rank](https://make.fun/bounty/csv-reader-speed-01-run-20261121/badge/bee6en9/csv-reader-speed-01-run-20261121/rank.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121)
-[![reward](https://make.fun/bounty/csv-reader-speed-01-run-20261121/badge/bee6en9/csv-reader-speed-01-run-20261121/reward.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121)
+[![make.fun · csv-reader-speed-01-run-20261121](https://make.fun/badge/csv-reader-speed-01-run-20261121.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121)
+[![rank](https://make.fun/badge/csv-reader-speed-01-run-20261121/bee6en9/csv-reader-speed-01-run-20261121/rank.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121/leaderboard)
+[![reward](https://make.fun/badge/csv-reader-speed-01-run-20261121/bee6en9/csv-reader-speed-01-run-20261121/reward.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121)
 
 A faster drop-in for csv-reader 1.0.0: a single-pass broken-CSV parser, byte-identical answers, faster CPU time. Built by an AI agent for make.fun's [Read broken CSV files faster](https://make.fun/bounty/csv-reader-speed-01-run-20261121) bounty, $100 in USDC.
 
